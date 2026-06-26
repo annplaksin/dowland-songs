@@ -15,8 +15,13 @@
 
 <urn:uuid:works/3606695032> owl:sameAs <https://d-nb.info/gnd/300406770>;
     a melod:Work;
-    melod:hasTitle _:b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d;
+    melod:hasTitle _:b672_b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d;
+    melod:hasContribution _:88527c2f-2d38-47db-be64-7b64eddf92b2;
     lrmoo:R3_is_realised_in <urn:uuid:expressions/1495249622>.
-_:b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
+_:b672_b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
     melod:hasTitleType terms:UniformTitle;
     a melod:Title.
+_:88527c2f-2d38-47db-be64-7b64eddf92b2 a melod:Contribution;
+    melod:hasAgent <urn:uuid:persons/1364731359>;
+    melod:hasRole terms:Composer;
+    melod:hasCertainty terms:HighCertainty.
