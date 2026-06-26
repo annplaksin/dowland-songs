@@ -1,0 +1,6 @@
+<urn:uuid:works/3606695032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://lod.academy/melod/vocab/ontology#WorkEntity> .
+<urn:uuid:works/3606695032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lachrimae Pavane"@en.
+<urn:uuid:works/555068543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://lod.academy/melod/vocab/ontology#WorkEntity> .
+<urn:uuid:works/555068543> <http://www.w3.org/2004/02/skos/core#prefLabel> "Halleluja, lobet den Namen des Herrn"@de.
+<urn:uuid:works/3824753410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Can she excuse my wrongs"@en.
+<urn:uuid:works/3824753410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://lod.academy/melod/vocab/ontology#WorkEntity>.

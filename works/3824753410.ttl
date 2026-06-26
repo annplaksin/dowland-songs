@@ -13,15 +13,13 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/>.
 
-<urn:uuid:works/3606695032> owl:sameAs <https://d-nb.info/gnd/300406770>;
-    a melod:Work;
-    melod:hasTitle _:b880_b672_b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d;
-    melod:hasContribution _:b880_88527c2f-2d38-47db-be64-7b64eddf92b2;
-    lrmoo:R3_is_realised_in <urn:uuid:expressions/1495249622>.
-_:b880_b672_b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
+_:2938fba4-ad98-4479-a69a-21ef5274412b rdfs:label "Can she excuse my wrongs"@en;
     melod:hasTitleType terms:MainTitle;
     a melod:Title.
-_:b880_88527c2f-2d38-47db-be64-7b64eddf92b2 a melod:Contribution;
+<urn:uuid:works/3824753410> a melod:Work;
+    melod:hasTitle _:2938fba4-ad98-4479-a69a-21ef5274412b;
+    melod:hasContribution _:c2f5a563-e3f4-43b0-8d5c-63e4627f02bc.
+_:c2f5a563-e3f4-43b0-8d5c-63e4627f02bc a melod:Contribution;
     melod:hasAgent <urn:uuid:persons/1364731359>;
     melod:hasRole terms:Composer;
     melod:hasCertainty terms:HighCertainty.
