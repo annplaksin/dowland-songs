@@ -1,0 +1,6 @@
+<urn:uuid:institutions/484401742> <http://www.w3.org/2004/02/skos/core#prefLabel> "D-B (Staatsbibliothek zu Berlin - Preußischer Kulturbesitz)".
+<urn:uuid:institutions/484401742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://lod.academy/melod/vocab/ontology#Institution> .
+<urn:uuid:institutions/901685163> <http://www.w3.org/2004/02/skos/core#prefLabel> "D-Bsa (Sing-Akademie)".
+<urn:uuid:institutions/901685163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://lod.academy/melod/vocab/ontology#Institution> .
+<urn:uuid:institutions/1447117359> <http://www.w3.org/2004/02/skos/core#prefLabel> "D-F (Universitätsbibliothek Johann Christian Senckenberg)".
+<urn:uuid:institutions/1447117359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://lod.academy/melod/vocab/ontology#Institution>.

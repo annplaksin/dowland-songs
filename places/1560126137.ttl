@@ -1,0 +1,12 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix melod: <https://lod.academy/melod/vocab/ontology#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix schema: <https://schema.org/>.
+@prefix sh: <http://www.w3.org/ns/shacl#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix dash: <http://datashapes.org/dash#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+
+<urn:uuid:places/1560126137> schema:name "London";
+    schema:containedInPlace <https://www.geonames.org/2635167>;
+    a melod:Place.
