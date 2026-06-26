@@ -13,8 +13,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/>.
 
-_:b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
+<urn:uuid:works/3606695032> owl:sameAs <https://d-nb.info/gnd/300406770>;
+    a melod:Work;
+    melod:hasTitle _:b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d.
+_:b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
     melod:hasTitleType terms:MainTitle;
     a melod:Title.
-<urn:uuid:works/3606695032> a melod:Work;
-    melod:hasTitle _:b244_f9749a17-9af4-4941-8228-daeb5919e74d.
