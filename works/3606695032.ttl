@@ -15,8 +15,8 @@
 
 <urn:uuid:works/3606695032> owl:sameAs <https://d-nb.info/gnd/300406770>;
     a melod:Work;
-    melod:hasTitle _:b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d;
+    melod:hasTitle _:b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d;
     lrmoo:R3_is_realised_in <urn:uuid:expressions/1495249622>.
-_:b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
-    melod:hasTitleType terms:MainTitle;
+_:b640_b128_b80_b244_f9749a17-9af4-4941-8228-daeb5919e74d rdfs:label "Lachrimae Pavane"@en;
+    melod:hasTitleType terms:UniformTitle;
     a melod:Title.
